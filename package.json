@@ -1,0 +1,24 @@
+{
+  "name": "react-color",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myang5/react-color.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myang5/react-color/issues"
+  },
+  "homepage": "https://github.com/myang5/react-color#readme",
+  "dependencies": {
+    "reactcss": "^1.2.3",
+    "tinycolor2": "^1.4.1"
+  }
+}

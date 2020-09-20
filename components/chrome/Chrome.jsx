@@ -29,6 +29,10 @@ export const Chrome = ({
             boxShadow: '0 0 2px rgba(0,0,0,.3), 0 4px 8px rgba(0,0,0,.3)',
             boxSizing: 'initial',
             fontFamily: 'Menlo',
+            position: 'absolute',
+            left: '11rem',
+            top: '0',
+            zIndex: '1000',
           },
           saturation: {
             width: '100%',
